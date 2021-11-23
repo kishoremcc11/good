@@ -6,3 +6,10 @@ Noway
 Sure I will go to Singapore
 
 I am confident in doing git
+<<<<<<< Updated upstream
+=======
+
+I am ediiting this file I editing again
+
+I am slow and steady
+>>>>>>> Stashed changes
